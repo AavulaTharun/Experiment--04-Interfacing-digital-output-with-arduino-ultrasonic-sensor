@@ -92,12 +92,12 @@ void loop()
 ~~~
 
 ### Distance vs measurement table: 
-![22222](https://user-images.githubusercontent.com/93427201/190161325-1417cf93-4c25-4f92-a3c7-abcecf2aa0ba.png)
-		
+![WhatsApp Image 2022-09-14 at 6 42 38 PM](https://user-images.githubusercontent.com/93427201/190163592-3b7af550-b2d4-428c-a788-75a41d49d62a.jp
+	
 			
 ### average error = sum/ number of readings:
 
-Average Error=1.7+1.2+1.3+2.1+2.5/5=1.76
+Average Error=0.5+0.7+0.4+0.8+1.0=3.4/5=0.68
 
 
 ### OUTPUT:
