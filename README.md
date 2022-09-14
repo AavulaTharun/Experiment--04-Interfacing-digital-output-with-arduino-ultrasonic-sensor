@@ -102,7 +102,7 @@ Average Error=1.7+1.2+1.3+2.1+2.5/5=1.76
 
 ### OUTPUT:
 ![i](https://user-images.githubusercontent.com/93427201/190161705-0d25256e-3c4c-47ff-b991-3f4f7e4e619a.png)
-
+### serial monitor:
 ![WhatsApp Image 2022-09-14 at 6 38 56 PM](https://user-images.githubusercontent.com/93427201/190162652-ecba38c0-2782-4d29-94b1-b5b8213cb681.jpeg)
 
 
