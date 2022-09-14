@@ -90,8 +90,8 @@ void loop()
 ~~~
 
 ### Distance vs measurement table: 
-![WhatsApp Image 2022-09-14 at 6 42 38 PM](https://user-images.githubusercontent.com/93427201/190163592-3b7af550-b2d4-428c-a788-75a41d49d62a.jp
-	
+![333333333333333](https://user-images.githubusercontent.com/93427201/190164173-a947a6dd-832c-4c1a-979a-f1acc43382e2.png)
+
 			
 ### average error = sum/ number of readings:
 
